@@ -310,3 +310,5 @@ ORDER BY `Shipping Time (days)`;
 -	Given that order quantities of 3, 4, and 5 units are the most profitable, **implement bundle offers to encourage larger order quantities that will maximize profit.   
 -	Due to the positive correlation between longer shipping times and higher return rates, **build partnerships with reliable shipping providers to ensure fast shipping times.**
 
+### Data Set
+The data set is available on [Kaggle](https://www.kaggle.com/datasets/monisamir/online-super-store-sales-analysis).
